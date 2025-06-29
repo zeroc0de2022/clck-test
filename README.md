@@ -10,7 +10,7 @@ RESTful-сервис для сокращения URL-адресов на Laravel
 ### 1. Установка зависимостей
 
 ```bash
-git clone https://github.com/zeroc0de2022/clck.git
+git clone https://github.com/zeroc0de2022/clck_test.git
 cd clck
 composer install
 cp .env.example .env
