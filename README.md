@@ -11,7 +11,7 @@ RESTful-сервис для сокращения URL-адресов на Laravel
 
 ```bash
 git clone https://github.com/zeroc0de2022/clck-test.git
-cd clck
+cd clck-test
 composer install
 cp .env.example .env
 php artisan key:generate
